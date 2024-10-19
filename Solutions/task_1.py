@@ -23,5 +23,5 @@ def pull(n:int):
         if c4==10:
             four_stars+=1
             c4=0
-    return four_stars,five_stars
-print(pull(191))
+    return (four_stars,five_stars)
+print(pull(2151))
