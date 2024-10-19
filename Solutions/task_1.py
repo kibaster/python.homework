@@ -24,4 +24,3 @@ def pull(n:int):
             four_stars+=1
             c4=0
     return (four_stars,five_stars)
-print(pull(2151))
