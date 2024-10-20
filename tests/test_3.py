@@ -3,7 +3,7 @@ from itertools import pairwise
 
 import pytest
 
-from solution.task_3 import generate, learn
+from Solutions.task_3 import generate, learn
 
 EPSILON = 0.05
 weights = {
